@@ -2,8 +2,43 @@ a {
   transition: all 0.2s ease-in-out;
 }
 
+
+
 img {
   max-width: 100%;
+}
+
+.hide{
+  display:none;  
+}
+
+.main-logo{
+  text-shadow: 0 1px 1px rgba(0,0,0,.1);
+  font-size: 170%;  
+
+  span{
+    color: #aaa;
+    font-size: 70%;
+    font-weight: 900;  
+  }
+
+}
+
+.card{
+  overflow:hidden;
+}
+
+.card .card-tags{
+  font-size: 80%;
+  border-top: 1px solid #eee;
+  padding-top: 8px;  
+}
+
+.card .card-tags> span{
+  padding: 2px 5px;
+  border: 1px solid #ddd;
+  border-radius: 5px;  
+  margin:0 1px;
 }
 
 blockquote {

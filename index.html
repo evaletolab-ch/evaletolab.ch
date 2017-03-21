@@ -4,13 +4,20 @@ layout: landing
 
 <nav class="main-nav">
   <div class="container-lg edged mx-auto clearfix">
+    <div class="float-sm-left">
+      <ul class="main-links d-flex flex-wrap flex-items-stretch border-right border-bottom border-sm-0 list-style-none">
+        <li class="d-inline-block d-block p-3 p-sm-3 main-logo">
+          evaletolab<span>.ch</span>
+        </li>
+      </ul>
+    </div>  
     <div class="float-sm-right">
       <ul class="main-links d-flex flex-wrap flex-items-stretch border-left border-bottom border-sm-0 list-style-none">
         <li class="d-inline-block border-right">
-          <a class="d-block p-3 p-sm-4" href="https://github.com/github/open-source-guide#open-source-guides">About</a>
+          <a class="d-block p-3 p-sm-4" href="https://github.com/evaletolab-ch">About</a>
         </li>
         <li class="d-inline-block border-right">
-          <a class="d-block p-3 p-sm-4" href="https://github.com/github/open-source-guide/blob/gh-pages/CONTRIBUTING.md">Contribute</a>
+          <a class="d-block p-3 p-sm-4 open-drift-button" href="#" >Contactez-nous!</a>
         </li>
       </ul>
     </div>
@@ -21,9 +28,9 @@ layout: landing
 
   <header class="py-4 py-md-6">
     <div class="container-lg mx-auto text-center px-3 pt-6">
-      <h1 class="alt-h1">Open Source Guides</h1>
+      <h1 class="hide alt-h1">evaletolab.ch</h1>
       <p class="alt-lead text-gray mb-md-5 col-md-8 mx-auto">
-        Open source software is made by people just like you. Learn how to launch and grow your project.
+        Vous êtes une startup? une institution? ou une entreprise? Vous souhaitez développer un projet ambitieux avec les meilleurs technologies? Nous voullons réaliser toutes vos idées avec un minimum de ressources et de temps. Pour ça, nous utilisons une méthode scientifique et Agile centrée sur l'expérience utilisateur.
       </p>
     </div>
   </header>
@@ -33,10 +40,11 @@ layout: landing
       {% assign articles = site.articles | sort: 'order' %}
       {% for article in articles %}
       <div class="col-12 col-sm-9 mx-auto col-md-6 mt-4 mt-lg-5">
-        <a href="{{ site.baseurl }}{{ article.url }}" class="guide-cover {{ article.class }} card height-full d-block">
+        <a href="{{ site.baseurl }}{{ article.url }}" class="guide-cover fullscreen {{ article.class }} card height-full d-block">
 
-          <div class="lh-none guide-cover-img text-center pt-4">
-            <img src="{{ site.baseurl }}/assets/images/illos/{{ article.class }}.svg" class="" alt="{{ article.title }} illustration">
+          <div class="lh-none guide-cover-img text-center pt-4" 
+               style="background-image:url({{ site.baseurl }}{{ article.image }})">
+            
           </div>
 
           <div class="flex-self-end p-4 text-center p-lg-5">
@@ -46,6 +54,9 @@ layout: landing
             <div class="mb-0 text-gray">
               {{ article.description | markdownify }}
             </div>
+            <div class="mb-0 text-gray card-tags">
+              {{ article.tags }}
+            </div>            
           </div>
 
         </a>
