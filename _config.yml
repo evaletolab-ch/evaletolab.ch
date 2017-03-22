@@ -9,6 +9,7 @@ exclude:
   - Gemfile*
   - node_modules
   - package.json
+  - CNAME
   - Rakefile
   - README.md
   - script
@@ -79,6 +80,14 @@ github:
 
 twitter:
   username: evaletolab
+
+# https://github.com/jekyll/jekyll-seo-tag
+social:
+  name: Evalet Olivier
+  links:
+    - https://twitter.com/evaletolabs
+    - https://www.linkedin.com/in/evaleto/
+    - https://github.com/evaletolab
 
 #facebook:
 #  publisher: 
