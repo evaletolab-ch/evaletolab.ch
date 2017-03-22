@@ -75,7 +75,7 @@ sass:
     - node_modules
     - node_modules/**/*/node_modules
 
-branch: gh-pages
+branch: master
 
 github:
   repository_nwo: evaletolab-ch/evaletolab-ch
