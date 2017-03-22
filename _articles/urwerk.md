@@ -10,7 +10,7 @@ tags: <span>eagle pcb</span> <span>c/c++</span> <span>AVR</span>
 published: true
 ---
 
-## EMC
+## EMC 2
 Dans le cadre de ce projet, nous avons développer l'électronique et le logiciel d’une montre mécanique équipée d’un « CPU », permettant de mesurer la précision du mouvement. Le «CPU» est alimentée par un condensateur qui se charge avec l'aide d'une manivelle. Pas de batterie avec la limite de 1000 charges, mais un super-condensateur pratiquement sans limite de charge.
 
 ![urwerk 1](/assets/images/urwerk-emc-dev1.jpg)
