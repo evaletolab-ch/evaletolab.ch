@@ -1,4 +1,8 @@
 # Open Source Guides
+# install jekyll page,
+# https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+# - https://pages.github.com/versions/
+# - octicons https://github.com/github/pages-gem/issues/347
 
 Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 
