@@ -1,10 +1,13 @@
 ---
 title: urwerk - EMC
-description: Découvrez ce magnifique projet de la haute Horlogerie qui a reçu le prix de l'innovation du GPHG en 2014
+description: >-
+  Découvrez ce magnifique projet de la haute Horlogerie qui a reçu le prix de
+  l'innovation du GPHG en 2014
 class: best-practices
 order: 0
 image: /assets/images/urwerk-emc2.jpg
-tags: <span>eagle pcb</span> <span>c/c++</span> <span>AVR</span> 
+tags: <span>eagle pcb</span> <span>c/c++</span> <span>AVR</span>
+published: true
 ---
 
 ## EMC
@@ -28,4 +31,3 @@ Dans le cadre de ce projet, nous avons développer l'électronique et le logicie
 — @evaletolab, Quoi de plus motivant que de donner à chaque projet les meilleurs techniques du moment?
   </p>
 </aside>
-
