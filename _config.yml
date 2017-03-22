@@ -59,6 +59,7 @@ prose:
               value: "presse"
               
 gems:
+  - jekyll-theme-primer
   - jekyll-mentions
   - jekyll-octicons
   - jekyll-seo-tag
