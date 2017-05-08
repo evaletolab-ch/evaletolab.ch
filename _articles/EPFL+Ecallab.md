@@ -1,17 +1,22 @@
 ---
 title: EPFL+EcalLab 
 description: Le projet Solidarity Network vise au développement d'une communauté spécialisé pour les personnes agées. 
-class: best-practices
+class: contribute
 order: 1
-image: /assets/images/epfl-1.jpg
-tags: <span>react-js</span> <span>airtable</span> <span>github</span> 
+image: /assets/images/epfl-title.jpg
+tags: <span>react-js</span> <span>airtable</span> <span>github</span> <span>POC</span> 
 ---
 
 ## Solidarity Network
-Techniquement, le projet a été réalisé comme une application web en utilisant la technologie ReactJS de facebook.
+![solidarity](/assets/images/epfl-title.jpg)
 
-![urwerk 1](/assets/images/epfl-1.jpg)
+Un projet social a été réalisé par l'EPFL+Ecal avec le Royal College of Art in London
 
+
+![solidarity](/assets/images/epfl-1.jpg){: .align}
+![solidarity](/assets/images/epfl-calendar.jpg){: .align}
+![solidarity](/assets/images/epfl-2.jpg){: .align}
+![solidarity](/assets/images/epfl-3.jpg){: .align}
 
 
 
@@ -22,7 +27,7 @@ Techniquement, le projet a été réalisé comme une application web en utilisan
   Cette longue expérience lui permet d'être très efficace pour déterminer le bon déroulement d'un projet.
   
   <p markdown="1" class="pquote-credit">
-— @evaletolab, Quoi de plus motivant que de donner à chaque projet les meilleurs techniques du moment?
+— @evaletolab, Quoi de plus motivant que de donner à chaque projet les meilleurs outils du moment?
   </p>
 </aside>
 

@@ -41,7 +41,7 @@ Karibou.ch est un marketplace décentralisé (p2p) spécialisé dans la distribu
   Cette longue expérience lui permet d'être très efficace pour déterminer le bon déroulement d'un projet.
   
   <p markdown="1" class="pquote-credit">
-— @evaletolab, Quoi de plus motivant que de donner à chaque projet les meilleurs techniques du moment?
+— @evaletolab, Quoi de plus motivant que de donner à chaque projet les meilleurs outils du moment?
   </p>
 </aside>
 

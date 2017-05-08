@@ -8,6 +8,17 @@ img {
   max-width: 100%;
 }
 
+img.align{
+  width: 100%;
+  padding: 20px 80px ;
+}
+
+@media (max-width: 780px) {
+  img.align{
+    padding: 10px ;
+  }
+}
+
 .hide{
   display:none;  
 }
