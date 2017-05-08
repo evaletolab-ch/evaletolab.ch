@@ -22,7 +22,7 @@ Une excellente idée avec une mauvaise expérience utilisateur peut être fatale
 Une bonne expérience utilisateur c'est être celle qui résoud un problème par le chemin le plus court pour un public cible. C'est aussi savoir adopter l'attitude du «one less button».
 
 ### Constituer un dashboard comme complément à votre CRM
-Une bonne application, c'est important, mais ce qu'il faut ensuite c'est un dashboard qui intègre les données - découpées dans le temps - de FB, LinkedIn, Twitter, et Mailchimp.
+Une bonne application, c'est important, mais ce qu'il faut ensuite c'est un dashboard qui intègre les données - découpées dans le temps - de l'usage de votra application, de l'activité sur FB et de vos campagnes Mailchimp.
 
 ### Apprendre et grandir
 Comment est utilisé votre application? Quelles sont les données importantes?  Quelles choix pour la prochaine version? Nous pouvons vous aider à constituer un tableau de bord pour la mesure qualitative de votre projet.
