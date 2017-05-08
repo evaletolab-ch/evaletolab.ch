@@ -6,11 +6,11 @@ description: >-
 class: building
 order: 0
 image: /assets/images/urwerk-emc2.jpg
-tags: <span>eagle pcb</span> <span>c/c++</span> <span>AVR</span>
+tags: <span>eagle pcb</span> <span>c/c++</span> <span>AVR</span> <span>watchmaker</span>
 published: true
 ---
 
-## EMC
+## EMC 1, EMC 2
 Dans le cadre de ce projet, nous avons développé l'électronique et le logiciel d’une montre mécanique équipée d’un « microcontroller », permettant de mesurer la précision du mouvement. Le «CPU» est alimentée par un supercondensateur qui se charge avec l'aide d'une manivelle. Pas d'obsolescence de la batterie avec cette limite de 1000 charges. Avec un supercondensateur la limite de charge est inexistante!
 
 ![urwerk 1](/assets/images/urwerk-emc-dev1.jpg)
