@@ -65,6 +65,7 @@ gems:
   - jekyll-octicons
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jemoji
 
 markdown: kramdown
 
@@ -77,8 +78,8 @@ sass:
 
 branch: master
 
-github:
-  repository_nwo: evaletolab-ch/evaletolab-ch
+#github:
+#  repository_nwo: evaletolab-ch/evaletolab-ch
 
 twitter:
   username: evaletolab

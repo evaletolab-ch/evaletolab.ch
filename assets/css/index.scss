@@ -2,6 +2,7 @@
 ---
 
 
+$black:#000000;
 
 @import "primer-core/index.scss";
 @import "primer-marketing/index.scss";
@@ -24,3 +25,44 @@ $alt-mono-font: $mono-font;
 @import "custom.scss";
 @import "covers.scss";
 @import "anchor.scss";
+
+img{
+  &.border{
+    border:2px solid #ddd;    
+  }
+  &.radius{
+    border-radius: 10px;
+  }
+
+  &.full-width{
+    @media (min-width:1024px){
+      margin-left: -20%!important;
+      margin-right: -20%!important;
+      width: 140%;
+      max-width: 140%;              
+    }
+  }
+
+  &.align-left {
+    flex: 1 0 50%;
+    float: left;
+    width: 49%!important;
+    margin: 3px;
+  }
+  &.emoji{
+    width: 25px!important;
+    height: 25px!important;
+    margin: 0!important;
+    max-width: initial!important;
+  }      
+}
+
+h1 img.emoji,
+h2 img.emoji{
+  width: 42px!important;
+  height: 42px!important;
+}
+
+.article-body>p{
+  font-size: 18px;
+}

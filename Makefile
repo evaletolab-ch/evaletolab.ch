@@ -21,6 +21,6 @@ watch:
 	$(JADE) -w *.jade
 	
 publish:
-	rsync -avu --exclude 'node_modules' --delete -e ssh . evaleto@evaletolab.ch:www/evaletolab.ch/
+	rsync -avu --exclude 'node_modules' --delete -e ssh _site/* evaleto@evaletolab.ch:www/evaletolab.ch/
 
 .PHONY: docs clean publish

@@ -12,20 +12,22 @@ image: /assets/images/social-coding.jpg
 ---
 
 ## Notre valeur ajoutée
-Réaliser une solution mobile, une application web et des mesures quantitatives/qualitatives est notre mission. 
+Vous accompagner pour transformer votre vision en, 
+1. propositions de valeurs mesurables, 
+2. solutions mobiles et webs de qualité, 
+3. fabrication d'audiences en entonnoir pour un (re)marketing/vente efficace. 
 
-### L'informatique doit être agile
-En effet, à la différence d'une construction physique, chaque logiciel est souvent unique. Les méthodes et technologies changent rapidement. Certains problèmes peuvent amener beaucoup d'incertitude. Dans ces conditions, le chemin critique du planning peut être apprécié à chaque instant.
+### L'agilité pour atteindre des objectifs rapidement
+En effet, pour tranformer une vision abstraite en ventes réelles, il faut bien connaître la source des besoins de vos utilisateurs, et ensuite enlever toutes frictions au processus de vente. La force de l'informatique c'est de pouvoir construire par étapes des expériences utilisateurs facilement mesurerables. Par exemple, certains problèmes crééent beaucoup d'incertitude, une informatique créative peut transformer une incertitude en certitude en expérimentant ce qui est à la source du problème - _[processus des 5 pourquoi](https://fr.wikipedia.org/wiki/Cinq_pourquoi)_ - sur les différents caneaux `mobile/desktop/facebook/mailchimp/SEO`.
+
+### Apprendre avec un _«dashboard»_ comme complément au CRM
+Une bonne application, c'est important, mais ce qu'il faut ensuite c'est un dashboard qui intègre les retours d'activité, de l'activité sur FB, de vos campagnes Mailchimp, etc. Le but est bien d'avoir un outil complet pour appliquer le cycle `{expérimentations->erreurs||succès}`. 
 
 ### L'expérience utilisateur doit être parfaite
-Une excellente idée avec une mauvaise expérience utilisateur peut être fatale.
-Une bonne expérience utilisateur c'est être celle qui résoud un problème par le chemin le plus court pour un public cible. C'est aussi savoir adopter l'attitude du «one less button».
+Aujourd'hui, une excellente idée avec une mauvaise expérience utilisateur peut ruiner un projet.
+Une bonne expérience utilisateur c'est celle qui résoud un problème pour l'ensemble des utilisateurs par le chemin le plus court et le plus intuitif. C'est aussi savoir adopter une attitude  «One Less Button» qui consiste a ne pas proposer toutes les possibilités mais bien uniquement celles qui ont vraiment du sens.
 
-### Constituer un dashboard comme complément à votre CRM
-Une bonne application, c'est important, mais ce qu'il faut ensuite c'est un dashboard qui intègre les données - découpées dans le temps - de l'usage de votra application, de l'activité sur FB et de vos campagnes Mailchimp.
 
-### Apprendre et grandir
-Comment est utilisé votre application? Quelles sont les données importantes?  Quelles choix pour la prochaine version? Nous pouvons vous aider à constituer un tableau de bord pour la mesure qualitative de votre projet.
 
 ## Qui sommes nous ?
 
