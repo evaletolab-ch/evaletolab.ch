@@ -8,7 +8,7 @@ toc:
   ux: "L'expérience utilisateur doit être parfaite"
   ux-start: "Ou commence l'expérience utilisateur ?"
 order: 0
-image: /assets/images/social-coding.jpg
+image: /assets/images/team.jpg
 ---
 
 ## Notre valeur ajoutée

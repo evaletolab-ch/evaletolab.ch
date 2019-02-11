@@ -36,9 +36,23 @@
         n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
       });
     }();
-    drift.SNIPPET_VERSION = '0.3.0'
+    // https://devdocs.drift.com/docs/widget-configuration
+    drift.config({
+      enableWelcomeMessage:false,
+      welcomeMessageDelay:0
+    });
+    drift.SNIPPET_VERSION = '0.3.1'
     drift.load('y6rpfmexid9i');
     drift.on('ready', function(api) {
+      console.log(api);
+      setTimeout(function(){
+        api.hideAwayMessage();
+        api.hideChat();
+        api.hideWelcomeMessage();
+        api.widget.hide();
+        console.log('--- close',$('#drift-widget').toggleClass('drift-widget-welcome-expanded-online'))
+      },5100);
+
       $('.open-drift-button').click(function(){
         api.sidebar.open();
         return false;

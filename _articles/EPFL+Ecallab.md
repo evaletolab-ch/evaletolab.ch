@@ -1,8 +1,8 @@
 ---
-title: EPFL+EcalLab 
+title: project » EPFL+EcalLab 
 description: Le projet Solidarity Network vise au développement d'une communauté spécialisé pour les personnes agées. 
 class: contribute
-order: 1
+order: 3
 image: /assets/images/epfl-title.jpg
 tags: <span>react-js</span> <span>airtable</span> <span>github</span> <span>POC</span> 
 ---

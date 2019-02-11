@@ -1,8 +1,8 @@
 ---
-title: SIB - nextprot.org
+title: project » SIB - nextprot.org
 description: Une base de données RDF centrée sur les protéines humaines, le génome, les maladies, les publications, etc. 
 class: best-practices
-order: 1
+order: 3
 image: /assets/images/graph-1.jpg
 tags: <span>RDF</span> <span>noSQL</span> <span>AngularJS</span> <span>java-spring</span> <span>github</span>
 ---

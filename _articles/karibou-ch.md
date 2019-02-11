@@ -1,10 +1,10 @@
 ---
-title: karibou.ch
+title: project » karibou.ch
 description: Karibou.ch est une place de marché décentralisée spécialisée dans la distribution en flux tendu de produits alimentaires à Genève
 class: best-practices
 order: 1
 image: /assets/images/k.ch/k2.jpg
-tags: <span>mongodb</span> <span>travis-ci</span> <span>Angular7</span> <span>node/express</span> <span>github</span>
+tags: <span>mongodb</span> <span>travis-ci</span> <span>Angular7</span> <span>server</span> <span>API</span> <span>github</span>
 ---
 
 

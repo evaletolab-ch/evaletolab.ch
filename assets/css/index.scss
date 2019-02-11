@@ -26,6 +26,28 @@ $alt-mono-font: $mono-font;
 @import "covers.scss";
 @import "anchor.scss";
 
+a{
+  color: #423f3b;
+}
+.skills{
+  display: flex;
+  flex-flow: row wrap;
+  -align-items: center;
+  justify-items: center;
+  @media (max-width:768px) {
+    font-size: 18px;    
+  }
+  >div{
+    flex:1;
+    padding: 20px;
+    box-shadow: 0px 0px 0px 1px rgba(255,255,255,0.66);
+    background: rgba(245, 222, 179, 0.5);
+    background: #423f3b;
+    color: white;
+    letter-spacing: -0.5px;
+  }
+}
+
 img{
   &.border{
     border:2px solid #ddd;    
