@@ -1,4 +1,10 @@
 ---
+title: Qui sommes nous?
+description: Découvrez notre démarche et comment nous travaillons pour résoudre des problèmes à l'aide de solutions web et mobiles
+class: beginners
+order: 0
+image: /assets/images/team.jpg
+---
 
 ## Qui sommes nous ?
 
@@ -63,6 +69,3 @@ Une bonne application, c'est important, mais ce qu'il faut ensuite c'est un dash
 ### L'expérience utilisateur doit être parfaite
 Aujourd'hui, une excellente idée avec une mauvaise expérience utilisateur peut ruiner un projet.
 Une bonne expérience utilisateur c'est celle qui résoud un problème pour l'ensemble des utilisateurs par le chemin le plus court et le plus intuitif. C'est aussi savoir adopter une attitude «One Less Button» qui consiste a ne pas proposer toutes les possibilités mais bien uniquement celles qui ont vraiment du sens.
-
-
-
