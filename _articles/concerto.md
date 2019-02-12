@@ -8,7 +8,7 @@ tags: <span>Ionic/iPad</span> <span>CSS</span> <span>Angular4</span>
 ---
 
 ## Réalisation
-Pour ce projet nous devions produire une application spécifique [Ipad] qui donne au patient [interné] les moyens de comprendre les processus hospitaliers auxquels il est soumis ainsi que la maladie dont il souffre. Dans ce projet nous avons produit
+Pour ce projet nous devions produire une application spécifique [Ipad] qui donne au patient [interné] les moyens de comprendre les processus hospitaliers auxquels il est soumis ainsi que la maladie dont il souffre. Dans ce projet nous avons produit :
 
 * :boom: Pour des raisons de sécurité, une authentification à deux facteurs est en place; le patient scane son bracelet d'identité, et il reçoit ensuite par SMS sur son smartphone, un code de validation.
 ![concerto](/assets/images/concerto-1.gif){: .full-width}
