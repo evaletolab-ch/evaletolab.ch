@@ -1,14 +1,10 @@
 ---
-title: Qui sommes nous?
-description: Découvrez notre démarche et comment nous travaillons pour résoudre des problèmes à l'aide de solutions web et mobiles
+title: Qui sommes-nous?
+description: Nous sommes une équipes de créatifs et de développeurs passionés par les applications web ou mobile, l'expérience utilisateur et le marketing social.
 class: beginners
 order: 0
 image: /assets/images/team.jpg
 ---
-
-## Qui sommes nous ?
-
-Nous sommes une équipes de créatifs et de développeurs passionés par les applications web ou mobile, l'expérience utilisateur et le marketing social. 
 
 <aside markdown="1" class="pquote ">
   <img src="//ucarecdn.com/e79f59da-1081-4c89-a00f-b2499aaf0afa/-/resize/200x/oli.jpg" class="pquote-avatar" alt="avatar">
@@ -61,7 +57,7 @@ Vous accompagner pour transformer votre vision en,
 3. fabrication d'audiences en entonnoir pour un (re)marketing/vente efficace. 
 
 ### L'agilité pour atteindre des objectifs rapidement
-En effet, pour tranformer une vision abstraite en ventes réelles, il faut bien connaître la source des besoins de vos utilisateurs, et ensuite enlever toutes frictions au processus de vente. La force de l'informatique c'est de pouvoir construire par étapes des expériences utilisateurs facilement mesurables. Par exemple, certains problèmes crééent beaucoup d'incertitude, une informatique créative peut transformer une incertitude en certitude en expérimentant ce qui est à la source du problème - _[processus des 5 pourquoi](https://fr.wikipedia.org/wiki/Cinq_pourquoi)_ - sur les différents caneaux `mobile/desktop/facebook/mailchimp/SEO`.
+En effet, pour tranformer une vision abstraite en ventes réelles, il faut bien connaître la source des besoins de vos utilisateurs, et ensuite enlever toutes frictions au processus de vente. La force de l'informatique c'est de pouvoir construire par étapes des expériences utilisateurs facilement mesurables. Par exemple, certains problèmes crééent beaucoup d'incertitude, une informatique créative peut transformer une incertitude en certitude en expérimentant ce qui est à la source du problème - _[processus des 5 pourquoi](https://fr.wikipedia.org/wiki/Cinq_pourquoi)_ - sur les différents canaux `mobile/desktop/facebook/mailchimp/SEO`.
 
 ### Apprendre avec un _«dashboard»_ comme complément au CRM
 Une bonne application, c'est important, mais ce qu'il faut ensuite c'est un dashboard qui intègre les retours de l'activité sur FB, de vos campagnes Mailchimp, etc. Le but est d'avoir un outil complet pour appliquer le cycle `{expérimentations->erreurs||succès}`. 
