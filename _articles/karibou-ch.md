@@ -9,7 +9,7 @@ tags: <span>mongodb</span> <span>travis-ci</span> <span>Angular7</span> <span>se
 
 
 Karibou.ch est une place de marché décentralisée spécialisée dans la distribution en flux tendu de produits alimentaires à Genève.
-Son horizon c’est de créer un réseau social dont le but est de simplifier — depuis n’importe ou — l’accès à l’alimentation artisanale et celle de proximité ! Si les GAFA n’ont pas encore “réglés” ce problème avec un un gros DONE, c’est principalement parce qu’il n’y a pas de recette simple. Mais karibou.ch avec son expérience et ses logiciels, apporte un début de solution qui pourrait changer le monde de la distribution alimentaire de proximité.
+Son horizon c’est de créer un réseau social dont le but est de simplifier — depuis n’importe où — l’accès à l’alimentation artisanale et celle de proximité ! Si les GAFA n’ont pas encore “réglé” ce problème avec un un gros DONE, c’est principalement parce qu’il n’y a pas de recette simple. Mais karibou.ch avec son expérience et ses logiciels, apporte un début de solution qui pourrait changer le monde de la distribution alimentaire de proximité.
 
 >En effet, où que vous soyez, vous verrez apparaître sur votre écran les communautés de paysans, d’artisans, de cavistes et d’épiciers qui s’engagent à vous servir la meilleure nourriture en dépôt collecte ou à votre porte. En attendant, Karibou.ch c’est une première communauté de vendeurs à Genève qui offre une réelle alternative au supermarché. Notre première mission est de fournir :
 
@@ -35,16 +35,16 @@ Les livraisons sont planifiées à l'avance par l'équipe logistique. Une fois l
 ## Objectifs réalisés:
 
 * :+1: plus de 50% de l’activité Internet provient d’un mobile, cette nouvelle version est super efficace sur presque tous les * smartphones **— attention version du navigateur ≥2015**.
-* :+1: l’application est maintenant international (i18n).
+* :+1: l’application est maintenant internationale (i18n).
 * :+1: La navigation a été repensée en partant cette fois du mobile.
-* :+1: La sélection des produits est effectuée par un algorithme (une variante du TF-IDF) qui calcul un score selon l’état du produit, votre activité et celle des autres membres.
+* :+1: La sélection des produits est effectuée par un algorithme (une variante du TF-IDF) qui calcule un score selon l’état du produit, votre activité et celle des autres membres.
 * :+1: En haut de l’application il y a un espace de présentation de notre sélection.
-* :+1: Le client est sollicité pour faire un «feedback positif ou négatif (🌟🌟🌟)» sur ces commandes: «C’est super simple, au moindre souci avec un produit, le client est remboursé»
+* :+1: Le client est sollicité pour faire un «feedback positif ou négatif (🌟🌟🌟)» sur ses commandes: «C’est super simple, au moindre souci avec un produit, le client est remboursé»
 * :+1: Dès maintenant le client peut choisir de collecter sa commande et ainsi éviter les frais de livraison.
 
 <aside markdown="1" class="pquote hide">
   <img src="https://ucarecdn.com/5b03bb17-e6e5-453c-9152-e92c8c9053ca/-/resize/200x/delp.jpg" class="pquote-avatar" alt="avatar">
-  Spécialiste en organisation d'événements et Cofondatrice du club Weetamix, **Delphine Cluzel** est aussi la Co-fondatrice de l'entreprise [karibou.ch](http://karibou.ch). Delphine assure le planning des projets, leur organisation, elle sait se placer à la place de l'utilisateur, elle coordonne les relations publiques et connait bien le marketing social (avec mailchimp et facebook). 
+  Spécialiste en organisation d'événements et Cofondatrice du club Weetamix, **Delphine Cluzel** est aussi la Co-fondatrice de l'entreprise [karibou.ch](http://karibou.ch). Elle a créé la communauté d'artisans et les forme au quotidien pour vendre grâce à Internet, elle sait se placer à la place de l'utilisateur, elle coordonne les relations publiques et connait bien le marketing social (avec mailchimp et facebook). 
 
 
   <p markdown="1" class="pquote-credit">
@@ -57,8 +57,8 @@ Les livraisons sont planifiées à l'avance par l'équipe logistique. Une fois l
 
 <aside markdown="1" class="pquote">
   <img src="//ucarecdn.com/e79f59da-1081-4c89-a00f-b2499aaf0afa/-/resize/200x/oli.jpg" class="pquote-avatar" alt="avatar">
-  Spécialiste des technologies depuis très longtemps, **Olivier Evalet** connait sur le bout des doigts toutes les variantes possibles pour créer une application moderne web ou mobile. Il s'est passioné de l'expérience utilisateur qui est à la base d'une belle création. 
-  Cette longue expérience lui permet d'être très efficace pour déterminer le bon déroulement d'un projet.
+  Spécialiste des technologies depuis très longtemps, **Olivier Evalet** connait sur le bout des doigts toutes les variantes possibles pour créer une application moderne web ou mobile. Il s'est passioné pour l'expérience utilisateur qui est à la base d'une belle création. 
+  Cette longue expertise lui permet d'être très efficace pour déterminer le bon déroulement d'un projet.
   
   <p markdown="1" class="pquote-credit">
 — @evaletolab, Quoi de plus motivant que de donner à chaque projet les meilleurs outils du moment?
