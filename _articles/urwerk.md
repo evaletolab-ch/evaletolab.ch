@@ -19,13 +19,13 @@ Dans le cadre de ce projet, nous avons développé l'électronique et le logicie
 
 ## L'électronique n'est pas un problème !
 * :boom: Création des schémas électroniques  
-  * étage d'énergie qui doit fonctionner avec une source qui varie de 0.7 à 2.8 [V] (contrainte des supercapacitors) pour ensuite l'élevée de manière stable à 3.0 [V]
+  * étage d'énergie qui doit fonctionner avec une source qui varie de 0.7 à 2.8 [V] (contrainte des supercapacitors) pour ensuite l'élever de manière stable à 3.0 [V]
   * étage d'affichage (moteur et LED)
   * étage CPU (microcontrolleur AVR)
   * étage de programmation des boards
-* :boom: Analyse de maximisation de l'énergie sans compromettre la précision de la mesure.
+* :boom: Analyse de maximisation de l'énergie sans compromettre la précision de la mesure
 * :boom: Sélection des meilleurs composants électroniques
-* :boom: Développement du logiciel pour effectuer une mesure, et piloter l'affichage
+* :boom: Développement du logiciel pour effectuer une mesure et piloter l'affichage
 
 ![urwerk 2](/assets/images/urwerk-emc3.jpg)
 
